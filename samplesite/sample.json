@@ -1,0 +1,24 @@
+{
+    "trumpFamily": {
+        "father": {
+            "name": "John Trump",
+            "age": 52
+        },
+        "mother": {
+            "name": "Jane Trump",
+            "age": 50
+        },
+        "children": ["Bobby", "Bernadette"] 
+    },
+    "obamaFamily": {
+        "father": {
+            "name": "Chris Obama",
+            "age": 58
+        },
+        "mother": {
+            "name": "Kate Obama",
+            "age": 55
+        },
+        "children": ["Larry", "Darius", "Matthew"] 
+    }
+}
